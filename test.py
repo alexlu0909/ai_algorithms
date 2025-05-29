@@ -341,8 +341,7 @@ def a_star(problem):
         print(f"priority queue:{pq}")
     return None
 
-# ==============================
-# 运行程序
+
 # ==============================
 if __name__ == "__main__":
     problem = start_game()
